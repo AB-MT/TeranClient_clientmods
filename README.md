@@ -1,2 +1,2 @@
 # TeranClient_clientmods
-clientmods for TeranClient
+Clientmods for TeranClient. dont do anything with this repo, its only for https://github.com/Teeranu/TeranClient.
